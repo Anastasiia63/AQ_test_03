@@ -1,0 +1,24 @@
+CheckLists
+
+Defect ID:
+
+ID ....
+
+Summary:
+
+....
+
+Component(function)
+
+....
+
+Version:
+
+#....
+
+Severity:
+
+s1
+s2
+s3
+s4
