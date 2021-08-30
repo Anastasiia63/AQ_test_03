@@ -1,24 +1,36 @@
-CheckLists
+CheckLists : 
 
-Defect ID:
 
-ID ....
+ID : 
 
-Summary:
 
-....
 
-Component(function)
 
-....
+Title :
 
-Version:
 
-#....
 
-Severity:
 
-s1
-s2
-s3
-s4
+
+
+
+
+Input parameters :
+
+
+
+
+
+
+Expected Result :
+
+
+Actual result :
+
+
+
+
+Status :
+
+
+ID Defect :
