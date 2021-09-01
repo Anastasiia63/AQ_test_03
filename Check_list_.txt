@@ -1,0 +1,21 @@
+﻿CheckList:
+
+
+ID : http://itcareer.pythonanywhere.com/
+
+
+Title :
+     1.Check web form login for correct data.
+
+
+Data :
+     1.Name : Test/name 1
+     2.Surname : Test/surname 1
+     3.Email : 7alo_ola0001m@onlinecmail.com
+     4.Password : 1234G567
+
+
+Expected Result :
+1. Form is submitted.
+   
+Status : In the process of checking.
