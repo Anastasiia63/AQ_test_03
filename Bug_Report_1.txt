@@ -2,7 +2,7 @@
 
 
 1. ID   http://itcareer.pythonanywhere.com/ 
-2. Title : проверка формы логин 
+2. Title : Login form validation
 3. Environment  http://itcareer.pythonanywhere.com/ 
 4. Steps :
 * open web form
