@@ -7,5 +7,5 @@
 4. Steps :
 * Open web form
 * Check button - Submit
-5. Expected result : Center button name.
-6. Actual result : The button label is shifted to the right.
+5. Expected result : Center position button text-name.
+6. Actual result : The button text-name is shifted to the right.
