@@ -1,0 +1,11 @@
+﻿Bug Report
+
+
+1. ID   http://itcareer.pythonanywhere.com/ 
+2. Title : Login form validation.
+3. Environment  http://itcareer.pythonanywhere.com/ 
+4. Steps :
+* Open web form
+* Check button - Submit
+5. Expected result : Center button name.
+6. Actual result : The button label is shifted to the right.
