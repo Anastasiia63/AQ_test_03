@@ -8,6 +8,6 @@
 * open web form
 * check text  label Sureme
 5. Expected result :
-         label Surname
+   label Surname
 6. Actual result :
 label Sureme - spelling mistake
