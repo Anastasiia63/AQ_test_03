@@ -3,11 +3,13 @@
 
 1. ID   http://itcareer.pythonanywhere.com/ 
 2. Title : Login form validation
-3. Environment  http://itcareer.pythonanywhere.com/ 
-4. Steps :
+3. Environment : http://itcareer.pythonanywhere.com/ 
+4. Priority : Medium.
+5. Severity : Medium.
+6. Steps 
 * open web form
 * check text  label Sureme
-5. Expected result :
+7. Expected result :
    label Surname
-6. Actual result :
+8. Actual result :
 label Sureme - spelling mistake

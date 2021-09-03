@@ -3,9 +3,11 @@
 
 1. ID   http://itcareer.pythonanywhere.com/ 
 2. Title : Login form validation.
-3. Environment  http://itcareer.pythonanywhere.com/ 
-4. Steps :
+3. Environment  http://itcareer.pythonanywhere.com/
+4. Priority : Low.
+5. Severity : Minor.
+6. Steps :
 * Open web form
 * Check button - Submit
-5. Expected result : Center position button text-name.
-6. Actual result : The button text-name is shifted to the right.
+7. Expected result : Center position button text-name.
+8. Actual result : The button text-name is shifted to the right.
