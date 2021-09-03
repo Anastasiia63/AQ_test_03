@@ -9,8 +9,8 @@ Title :
 
 
 Data :
-     1.Name : Test/name 1
-     2.Surname : Test/surname 1
+     1.Name : Test-Johnny
+     2.Surname : Test-Cash
      3.Email : 7alo_ola0001m@onlinecmail.com
      4.Password : 1234G567
 
