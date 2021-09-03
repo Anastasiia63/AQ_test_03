@@ -1,0 +1,28 @@
+﻿Test-case
+
+
+Summer : Login form validation.
+
+
+ID :  http://itcareer.pythonanywhere.com/
+
+
+Preconditions : All data except the Surname must be filled in.
+
+
+Data: 
+Web page :    http://itcareer.pythonanywhere.com/
+Test-name :  Test-Johnny 
+Email :  7alo_ola0001m@onlinecmail.com
+Password : 1234G567
+
+
+Steps:
+1. Open web page :  http://itcareer.pythonanywhere.com/
+2. Enter value to Name filed: Test-Johnny
+3. Enter value to Email field  : 7alo_ola0001m@onlinecmail.com
+4. Enter value to Psssword field:  1234G567
+5. Click on Submit button
+
+
+Expected result :  “Succsess! Hello : Test-Johnny ”
