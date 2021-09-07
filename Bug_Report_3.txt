@@ -3,16 +3,16 @@
 
 1. ID   http://itcareer.pythonanywhere.com/ 
 2. OC/WEB
-        Version 93.0.4577.63 (Official assembly), (64 bit)
+   Version 93.0.4577.63 (Official assembly), (64 bit)
 3. Title : login form validation
 4. Environment  http://itcareer.pythonanywhere.com/ 
 5. Severity : Minor.
 6. Priority : Low
 7. Steps :
-* open web form.
-* do not enter any data in the fields.
-* push the button  - Submit.
+   * open web form.
+   * do not enter any data in the fields.
+   * push the button  - Submit.
 8. Expected result :
-         Error ! Please fill in all required fields.
+   Error ! Please fill in all required fields.
 9. Actual result :
- Error: All Fields are Required
+   Error: All Fields are Required
