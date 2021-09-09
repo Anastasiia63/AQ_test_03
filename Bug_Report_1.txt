@@ -2,14 +2,15 @@
 
 
 1. ID   http://itcareer.pythonanywhere.com/ 
-2. Title : Login form validation
+2. Chrome Version : 93.0.4577.63 (Official assembly), (64 bit)
+3. Title : Login form validation
 3. Environment : http://itcareer.pythonanywhere.com/ 
-4. Priority : Medium.
-5. Severity : Medium.
+4. Priority : Medium
+5. Severity : Minor
 6. Steps 
-* open web form
-* check text  label Sureme
+   * open web form
+   * check text  label Sureme
 7. Expected result :
    label Surname
 8. Actual result :
-label Sureme - spelling mistake
+   label Sureme - spelling mistake
