@@ -1,0 +1,23 @@
+﻿Bug Report
+
+
+1. ID   http://itcareer.pythonanywhere.com/ 
+2. Chrome Version 93.0.4577.63 (Official assembly), (64 bit)
+3. Title : Check the name of the textbox
+4. Environment  http://itcareer.pythonanywhere.com/ 
+5. Severity : Major
+6. Priority : Medium
+7. *Data :
+ 1. @#%%&&^
+ 2. Test-Cash
+ 3. 7alo_ola0001m@onlinecmail.com
+ 4. 1234G567
+8. Steps :
+* open web form.
+* Enter a name in the field  *data - 1.
+* Enter in the rest of the fields *data -2. 3. 4.
+* push the button  - Submit.
+9.     Expected result :
+            Error! Please fill in all required fields correctly.
+10. Actual result :
+    Success! @#%%&&^ Test-Cash.
