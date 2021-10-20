@@ -1,0 +1,21 @@
+﻿Defect Life Cycle
+
+
+->Open 
+->In Progress               
+      +Falied Verification->Неудачная проверка                                        
+      +Reopening->Повторное  открытие                                                                
+
+
+Detection->Обнаружение
+Reporting->Составление отчетов
+Assigning->Назначение 
+1.1.Not an issue->Не ошибка 
+1.2.Not reproducible->Не воспроизводится
+1.3.Won't fix->Не исправлю
+In Progress->В ходе выполнения
+Fixing->Ремонт 
+Retesting->Повторное тестирование
+Closure->Закрытие
+       +Resolved->Решено
+       +Closed->Закрыто
