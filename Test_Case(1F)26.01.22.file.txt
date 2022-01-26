@@ -1,0 +1,84 @@
+﻿Functionality Tests Name: 
+Free Registration form
+
+
+ID:
+fn.tc.1
+
+
+Title:
+Create User
+
+
+Precondition:
+Link:         https://www.salesforce.com/form/signup/elf-v2-login/?d=70130000000Enus
+
+
+Data:
+First Name: Testfirstname
+Last Name:Testlastname
+Job Title: Test Job Title
+Email: testemailaddress.gmail.com
+Phone: +380999999999
+Company: Test Company Name
+Employees: 21-200 employees
+Country: Ukraine
+Company Language: English
+Check "I agree...": Put a tick
+Click on "Start...."  button
+
+
+Steps:
+1 Open the Registration page
+2 Enter the First Name
+3 Enter the Last  Name
+4 Enter the Job Title
+5 Enter the Email
+6 Enter the Phone
+7 Enter the Company
+8 Select Employees from drop-down menu
+8 Select Country from drop-down menu
+9 Select Company Language from drop-down menu
+10 Check "I agree..."
+11 Click on "Start...."  button
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Expected Result:
+1 First Name is entered
+2 Last  Name  is entered
+3 Job Title  is entered
+4 Emai  is entered
+5 Phone  is entered
+6 Company  is entered
+7 Employees were selected from the drop-down menu
+8 Country were selected from the drop-down menu
+9 Company Language were selected from the drop-down menu
+10 Check "I agree..."  consent given
+11 Click on "Start...."  button
+12 User successfully registered
+
+
+Status:
+Pass
