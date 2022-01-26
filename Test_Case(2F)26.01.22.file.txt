@@ -1,0 +1,107 @@
+﻿Functionality Tests Name:
+        Add New Contact
+
+
+ID:
+fn.tc.2
+
+
+Title:
+Create New Contact
+
+
+Precondition:
+Input correct data
+
+
+Data:
+Salutation - Mr.
+First Name: Testfirstname
+Middle Name: Testmiddlename
+Last Name: Testlastname
+Suffix: SuffixTest
+Account Name: Account test name
+Title: This  is Test Title
+Email: testemailonl@gmail.com
+Phone: +380999944555
+Department: This is name of department
+Fax: testfax
+
+
+Steps:
+1 Open Contact page
+2 Click on Contact and Select New Contact from the drop-down menu
+3 Select Salutation - Mr.
+4 Enter a First Name
+5 Enter a Middle Name
+6 Enter a Last  Name
+7 Enter a Suffix
+8 Enter a Account Name
+9 Enter a Title
+10 Enter a Email
+11 Enter a Phone
+12 Enter a Department
+13 Enter a Fax
+14 Click on "Save"  button
+
+
+Expected Result:
+1.Contact page is opened
+2.Drop-down menu is opened new Contact form is opened
+3.Salutation - Mr.  were selected from the drop-down menu
+4 First Name is entered
+5 Middle Name   is entered
+6 Last  Name   is entered
+7 Suffix  is entered
+8 Account Name  is entered
+9 Title  is entered
+10 Email  is entered
+11 Phone  is entered
+12 Department  is entered
+13 Fax  is entered
+14 Contact is created
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Expected Result:
+1 First Name is entered
+2 Last  Name  is entered
+3 Job Title  is entered
+4 Emai  is entered
+5 Phone  is entered
+6 Company  is entered
+7 Employees were selected from the drop-down menu
+8 Country were selected from the drop-down menu
+9 Company Language were selected from the drop-down menu
+10 Check "I agree..."  consent given
+11 Click on "Start...."  button
+12 User successfully registered
+
+
+Status:
+Pass
