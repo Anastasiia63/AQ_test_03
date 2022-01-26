@@ -1,0 +1,40 @@
+﻿Functionality Tests Name:
+        New Account
+
+
+ID:
+fn.tc.3
+
+
+Title:
+Create New Account
+
+
+Precondition:
+Of the required fields, only  field   *New Account
+
+
+Data:
+*Account Name - Account Test  Name
+
+
+
+
+Steps:
+1 Open Contact page
+2 Click on Contact and Select New Contact from the drop-down menu
+3 Click on the search field and select New Account
+4 Enter Account name  field 
+5 Click on "Save" Button
+
+
+Expected Result:
+1.Contact page is opened 
+2.Drop-down menu is opened new Contact form is opened
+3 Drop-down is opened,  Account Name Selected
+4 Account name is entered
+5 New Account is created
+
+
+Status:
+Pass
