@@ -1,0 +1,378 @@
+﻿ID
+	Functionality Tests:
+	
+	cl.01
+	Sign Up (free )
+	Tested on
+	Tested by
+	Pass
+	Fail
+	
+
+	Verify user registration
+	Chrome Version 96.0.4664.110
+Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Last Name
+	Chrome Version 96.0.4664.110 Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Job Title
+	Chrome Version 96.0.4664.110 Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Email
+	Chrome Version 96.0.4664.110 Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Phone
+	Chrome Version 96.0.4664.110 Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Company
+	Chrome Version 96.0.4664.110 Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Employees
+	Chrome Version 96.0.4664.110 Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Country
+	Chrome Version 96.0.4664.110 Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Company Language
+	Chrome Version 96.0.4664.110 Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Checkbox I agree to the
+	Master Subscription
+	Agreement.
+	Chrome Version 96.0.4664.110 Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Checkbox
+	Yes, I would like to receive
+	marketing communications.
+	Chrome Version 96.0.4664.110 Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	cl.02
+	Create Contact
+	Tested on
+	Tested by
+	Pass
+	Fail
+	
+
+	Salutation
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	First Name
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Middle Name
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Last Name(Required field)
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Suffix
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Account Name (Required field)
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Reports To
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Title
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Department
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Email
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Fax
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Phone
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Mobile
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Mailing Address(search address field)
+	(Required field)
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Mailing Street
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Mailing City
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Mailing State/Province
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Mailing Zip/Postal Code
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Mailing Country
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+	
+
+	cl.03
+	New Account(Account Name)
+	Tested on
+	Tested by
+	Pass
+	Fail
+	
+
+	Account Name (Required field)
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Type
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Website
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Description
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Parent Account
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Phone
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Industry
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Employees
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Billing Address(search address field)
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Billing Street
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Billing City
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Billing State/Province
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Billing Zip/Postal Code
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Billing Country
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Shipping Address(search address field)
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Shipping Street
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Shipping City
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Shipping Zip/Postal Code
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Shipping State/Province
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Shipping Zip/Postal Code
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
+	
+
+	Shipping Country
+	Chrome Version 96.0.4664.110
+	Windows 7 32 bit
+	Yarmola A.
+	Pass
